@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dealer-studio/static/css/main.af1434d9.css",
+    "main.css": "/dealer-studio/static/css/main.be3c4bb6.css",
     "main.js": "/dealer-studio/static/js/main.fe16abb5.js",
     "static/js/453.21d2b2a4.chunk.js": "/dealer-studio/static/js/453.21d2b2a4.chunk.js",
     "static/media/header-bg.jpg": "/dealer-studio/static/media/header-bg.40e261d8a20f4fdf87ef.jpg",
     "static/media/card-bg.jpg": "/dealer-studio/static/media/card-bg.53e8c519bdd4d03b5d51.jpg",
     "index.html": "/dealer-studio/index.html",
-    "main.af1434d9.css.map": "/dealer-studio/static/css/main.af1434d9.css.map",
+    "main.be3c4bb6.css.map": "/dealer-studio/static/css/main.be3c4bb6.css.map",
     "main.fe16abb5.js.map": "/dealer-studio/static/js/main.fe16abb5.js.map",
     "453.21d2b2a4.chunk.js.map": "/dealer-studio/static/js/453.21d2b2a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af1434d9.css",
+    "static/css/main.be3c4bb6.css",
     "static/js/main.fe16abb5.js"
   ]
 }
